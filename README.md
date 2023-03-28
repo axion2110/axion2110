@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Annette, a front-end web-developer living in Toronto, from Hong Kong. </div>  
+### <h1 align="center">I'm Annette, a front-end web-developer living in Toronto, made in Hong Kong. </h1>  
 
 </br>  
 
