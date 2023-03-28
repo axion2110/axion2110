@@ -4,7 +4,8 @@
   
 
 ### <div align="center">I'm Annette, a front-end web-developer living in Toronto, from Hong Kong. </div>  
-  
+
+</br>  
 
 - 🔭 I’m currently searching for a front-end position.   
   
@@ -79,7 +80,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=axion2110&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
 <div align="center">
