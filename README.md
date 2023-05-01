@@ -10,7 +10,7 @@
 - 🔭 I’m currently searching for a front-end position.   
   
 
-- 🌱 I’m currently learning: Advanced JavaScript, mySQL  
+- 🌱 I’m currently learning: Redux, TypeScript
   
 
 - ⚡ Fun fact: I'm trilingual.  
